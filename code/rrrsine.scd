@@ -1,4 +1,4 @@
-﻿// rrrsine.scd synth and cagel def.
+﻿// rrrsine.scd synth and kagel def.
 
 SynthDef(\rrrsine, { arg out = 0, freq = 440, amp = 0.1, pan = 0, ata = 0.02, rel = 1.48;
 	var src, noise, env;
